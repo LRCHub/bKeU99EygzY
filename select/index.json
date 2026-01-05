@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "plot twist",
+  "base_artist": "TWS",
+  "createdAt": "2026-01-05T03:31:51.103101Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Plot Twist",
+      "artist": "Sigrid",
+      "has_synced": true,
+      "path": "select/01_Plot_Twist_Sigrid.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Plot Twist",
+      "artist": "Sigrid",
+      "has_synced": true,
+      "path": "select/02_Plot_Twist_Sigrid.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Plot Twist",
+      "artist": "NIKI",
+      "has_synced": true,
+      "path": "select/03_Plot_Twist_NIKI.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Plot Twist",
+      "artist": "CF98",
+      "has_synced": false,
+      "path": "select/04_Plot_Twist_CF98.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Plot Twist - Remix (Bonus)",
+      "artist": "Marc E. Bassy feat. Hailee Steinfeld",
+      "has_synced": true,
+      "path": "select/05_Plot_Twist_-_Remix_(Bonus)_Marc_E._Bassy_feat._Hailee_Steinfeld.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Plot Twist - Remix (Bonus)",
+      "artist": "Marc E. Bassy, Hailee Steinfeld",
+      "has_synced": true,
+      "path": "select/06_Plot_Twist_-_Remix_(Bonus)_Marc_E._Bassy,_Hailee_Steinfeld.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Plot Twist (Remix Bonus)",
+      "artist": "Marc E. Bassy, Hailee Steinfeld",
+      "has_synced": true,
+      "path": "select/07_Plot_Twist_(Remix_Bonus)_Marc_E._Bassy,_Hailee_Steinfeld.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Plot Twist (Remix)",
+      "artist": "Marc E. Bassy feat. Hailee Steinfeld",
+      "has_synced": true,
+      "path": "select/08_Plot_Twist_(Remix)_Marc_E._Bassy_feat._Hailee_Steinfeld.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Plot Twist",
+      "artist": "Marc E. Bassy, Hailee Steinfeld",
+      "has_synced": true,
+      "path": "select/09_Plot_Twist_Marc_E._Bassy,_Hailee_Steinfeld.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Plot Twist",
+      "artist": "Marc E. Bassy feat. Kyle",
+      "has_synced": true,
+      "path": "select/10_Plot_Twist_Marc_E._Bassy_feat._Kyle.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Plot Twist",
+      "artist": "Marc E. Bassy Ft. KYLE",
+      "has_synced": true,
+      "path": "select/11_Plot_Twist_Marc_E._Bassy_Ft._KYLE.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Plot Twist",
+      "artist": "Madeline Juno",
+      "has_synced": true,
+      "path": "select/12_Plot_Twist_Madeline_Juno.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Plot Twist",
+      "artist": "Lyrica Anderson",
+      "has_synced": false,
+      "path": "select/13_Plot_Twist_Lyrica_Anderson.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "plot twist",
+      "artist": "Mae Muller feat. Kenny Beats",
+      "has_synced": false,
+      "path": "select/14_plot_twist_Mae_Muller_feat._Kenny_Beats.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "plot twist",
+      "artist": "Mae Muller & Kenny Beats",
+      "has_synced": false,
+      "path": "select/15_plot_twist_Mae_Muller_&_Kenny_Beats.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Plot Twist (feat. Kyle)",
+      "artist": "Marc E. Bassy",
+      "has_synced": true,
+      "path": "select/16_Plot_Twist_(feat._Kyle)_Marc_E._Bassy.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Plot Twist (Remix) [feat. Hailee Steinfeld]",
+      "artist": "Marc E. Bassy",
+      "has_synced": true,
+      "path": "select/17_Plot_Twist_(Remix)_[feat._Hailee_Steinfeld]_Marc_E._Bassy.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Plot Twist",
+      "artist": "Muni Long",
+      "has_synced": true,
+      "path": "select/18_Plot_Twist_Muni_Long.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Plot Twist (Interlude)",
+      "artist": "Muni Long",
+      "has_synced": true,
+      "path": "select/19_Plot_Twist_(Interlude)_Muni_Long.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "plot twist",
+      "artist": "TWS",
+      "has_synced": false,
+      "path": "select/pl_01_plot_twist_TWS.txt"
+    }
+  ]
+}
